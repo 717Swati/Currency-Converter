@@ -118,3 +118,9 @@ button {
     background-color: rgb(115, 7, 104);
     color: aliceblue;
 }
+
+@media screen and (max-width: 900px) {
+    header {
+        height: 500px;
+    }
+}
